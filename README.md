@@ -1,3 +1,3 @@
 # hello-world
 
-Hi humans
+Console.WriteLine("Hello World");
